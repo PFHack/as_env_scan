@@ -1,0 +1,17 @@
+{
+    "name": "EnvScan 插件",
+    "name_en": "EnvScan",
+    "main": "main.js",
+    "icon": "search",
+    "version": "0.1",
+    "description": "通过 Webshell 扫描目标主机常用的软件",
+    "description_en": "Use Webshell to scan the software commonly used by the target host",
+    "author": {
+     "name": "PFinal南丞",
+     "email": "lampxiezi@163.com"
+    },
+    "category": "内网工具",
+    "category_en": "Infomation",
+    "multiple": false,
+    "scripts": ["php"]
+}
