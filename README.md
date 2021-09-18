@@ -26,6 +26,11 @@
 
     将插件目录拷贝至 `antSword/antData/plugins/` 目录下即安装成功
 
+## 使用如图所示:
+
+![](./use.png)
+
+
 ## 相关链接
 
 * [AntSword 文档](http://doc.uyu.us)
